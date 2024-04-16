@@ -1,3 +1,3 @@
-# Trabajo-Final_Implementaci-n-del-Modelo-de-rboles-de-Decisi-n-para-la-Predicci-n-de-estr-s-acad-mico
+# Trabajo-Final_Inteligencia-Computacional
 Este es un repositorio de scripts en lenguaje de programación Python para el diplomado de Inteligencia Computacional.
 El proyecto se centra en investigar el impacto del estrés académico en el rendimiento y bienestar de los estudiantes. Para abordar este fenómeno, se implementa un modelo predictivo utilizando la metodología CRISP-DM de Minería de Datos. Esta metodología proporciona una estructura sistemática para explorar el conjunto de datos, lo que permite comprender exhaustivamente el proceso necesario para analizar y desarrollar eficientemente el objetivo del proyecto. En resumen, el proyecto busca comprender cómo el estrés académico afecta a los estudiantes y cómo se puede predecir utilizando técnicas de minería de datos.
